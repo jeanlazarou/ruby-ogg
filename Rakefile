@@ -11,7 +11,7 @@ Burke.setup do |s|
   s.rubyforge_project = 'ruby-ogg'
   s.homepage = 'http://github.com/dismaldenizen/ruby-ogg'
   
-  s.dependencies.bindata '~> 1.0'
+  s.dependencies.bindata '~> 1.6'
   
   s.has_rdoc = true
   
